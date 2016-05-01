@@ -1,4 +1,4 @@
-Forked from kenwheeler/slick.
+Forked from [https://github.com/kenwheeler/slick]
 
 I like to use ES6, so I plan to convert it to ES6 version.
 
